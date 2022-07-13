@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2020-Present: Research assistant advised by Prof. [Tong Yang](https://yangtonghome.github.io/), Peking University.
-* 
+
 * 2020-Present: Research assistant advised by Dr. [Wenjun Li]([https://yangtonghome.github.io/](http://www.wenjunli.com/)), Harvard University.
 
 Publications
