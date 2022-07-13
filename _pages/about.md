@@ -13,5 +13,7 @@ Hello, I'm Qilong Shi, a fresh graduate of the Department of Computer Science of
 Publications
 ======
 
-* SHE: A Generic Framework for Data Stream Mining over Sliding Windows. (ICPP2022)
+* SHE: A Generic Framework for Data Stream Mining over Sliding Windows.
   * Yuhan Wu, Zhuochen Fan, **Qilong Shi**, Yixin Zhang,  Tong Yang, Cheng Chen, Zheng Zhong, Junnan Li, Ariel Shtul, Yaofeng Tu.
+  * **ICPP** 2022
+  * [PDF](https://www.google.com/)
