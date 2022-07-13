@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qilon's Homepage"
+title                    : "Qilong's Homepage"
 title_separator          : "-"
 name                     : &name "Shi Qilong"
 description              : &description "personal"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qilong Shi"
   avatar           : "stallone.JPG"
-  bio              : "I graduated from the Department of Computer Science of Peking University."
+  bio              : "A fresh graduate of Peking University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
