@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* A Preliminary Study of Option Pricing by Monte Carlo Methods [pdf](https://sql0316.github.io/files/paper1.pdf)
-  * 
-* Senior High School Diploma in National Tainan First Senior High School (Science Class), 2015 - 2018
-* Junior High School Diploma in Chengdu No.7 Middle School, 2012 - 2015
+* A Preliminary Study of Option Pricing by Monte Carlo Methods [PDF](https://sql0316.github.io/files/NSD_FinalProject.html)
+  * Accurately simulate the pricing of European, Asian and American options using six Monte Carlo methods.
+  * Quantitative finance special project. The source code is implemented in Python.
+* Data Analytics For Sunshine Company [PDF](https://sql0316.github.io/files/MCM.pdf)
+  * Using the method of keyword search, the text data analysis is carried out by using the characteristics such as frequency of occurrence and vocabulary type.
+  * American Mathematical Contest in Modeling Honorable Mention paper. The source code is implemented in Python.
