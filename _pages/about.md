@@ -10,6 +10,8 @@ redirect_from:
 
 Hello, I'm Qilong Shi, a fresh graduate of the Department of Computer Science of Peking University. I have been doing research under the guidance of Prof. [Yang Tong](https://yangtonghome.github.io/). My research interests include sketch, massive data stream processing, and network measurement.
 
+Email: stallone\[AT\]pku\[DOT\]edu\[DOT\]cn
+
 Publications
 ======
 
