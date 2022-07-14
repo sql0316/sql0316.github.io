@@ -18,4 +18,4 @@ Publications
 * SHE: A Generic Framework for Data Stream Mining over Sliding Windows
   * Yuhan Wu, Zhuochen Fan, **Qilong Shi**, Yixin Zhang,  Tong Yang, Cheng Chen, Zheng Zhong, Junnan Li, Ariel Shtul, Yaofeng Tu.
   * **ICPP** 2022
-  * [PDF](https://www.google.com/)
+  * [PDF](https://www.google.com)
