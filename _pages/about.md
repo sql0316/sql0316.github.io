@@ -19,3 +19,8 @@ Publications
   * Yuhan Wu, Zhuochen Fan, **Qilong Shi**, Yixin Zhang,  Tong Yang, Cheng Chen, Zheng Zhong, Junnan Li, Ariel Shtul, Yaofeng Tu.
   * **ICPP** 2022
   * [PDF](https://sql0316.github.io/files/icpp22.pdf)
+
+* Cuckoo Counter: Adaptive Structure of Counters for Accurate Frequency and Top-k Estimation
+  * **Qilong Shi**, Yuchen Xu, Jiuhua Qi, Wenjun Li, Tong Yang, Yang Xu, Yi Wang.
+  * **IEEE/ACM Transactions on Networking (TON)**
+  * [PDF](https://ieeexplore.ieee.org/document/10005066)
